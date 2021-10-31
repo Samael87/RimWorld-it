@@ -5,7 +5,7 @@
   <!-- EN: {TITLE} title lost: {PAWN_labelShort} -->
   <LetterLabelLostRoyalTitle>Titolo di {TITLE} perso: {PAWN_labelShort}</LetterLabelLostRoyalTitle>
   <!-- EN: {TITLE} title gained: {PAWN_labelShort} -->
-  <LetterLabelGainedRoyalTitle>Titolo di {TITLE} ottenuto: PAWN_labelShort</LetterLabelGainedRoyalTitle>
+  <LetterLabelGainedRoyalTitle>Titolo di {TITLE} ottenuto: {PAWN_labelShort}</LetterLabelGainedRoyalTitle>
 
   <!-- EN: Permit points awarded: {0}. -->
   <PermitPointsAwarded>Permessi guadagnati: {0}.</PermitPointsAwarded>
@@ -16,7 +16,7 @@
   <LetterRoyalTitleApparelRequirement>Questo titolo richiede abbigliamento appropriato al suo titolo:</LetterRoyalTitleApparelRequirement>
   <!-- EN: {PAWN_possessive} expectations will never be less than {1}. -->
   <LetterRoyalTitleExpectation>Le sue aspettative non saranno mai inferiori a {1}.</LetterRoyalTitleExpectation>
-  
+
   <!-- EN: Because {PAWN_labelShort} is {1}, {PAWN_pronoun} will demand that this title's privileges be fully respected. {PAWN_pronoun} may refuse to do certain work types, eat low-class food and will issue decrees. -->
   <LetterRoyalTitleConceitedTrait>Poiché {PAWN_labelShort} è {1}, {PAWN_pronoun} richiederà il pieno rispetto dei privilegi di questo titolo. {PAWN_pronoun} potrebbe rifiutarsi di svolgere determinati tipi di lavoro, mangiare cibo di bassa qualità e potrebbe inoltre emanare decreti.</LetterRoyalTitleConceitedTrait>
 
@@ -135,10 +135,10 @@
   <LetterRandomDecree>{0_nameIndef}, per affermare il suo titolo di {0_bestRoyalTitleIndef}, ha emesso un decreto e ora chiede che venga eseguito.\n\nSe non viene eseguito in tempo utile, {0_nameIndef} diventerà molto infelice.</LetterRandomDecree>
   <!-- EN: The decree is titled "{0}". -->
   <LetterDecree_Quest>Il decreto si intitola "{0}".</LetterDecree_Quest>
-  
+
   <!-- Lent colonist died -->
   <!-- EN: {PAWN_nameDef} was lent to {FACTION}. They will return the body of {PAWN_nameDef} shortly. -->
-  <LentColonistDied>{PAWN_nameDef} è stato prestato a {FACTION}. A breve restituiranno il corpo di {PAWN_nameDef}. </LentColonistDied>  
+  <LentColonistDied>{PAWN_nameDef} è stato prestato a {FACTION}. A breve restituiranno il corpo di {PAWN_nameDef}. </LentColonistDied>
 
   <!-- Psylink -->
   <!-- EN: Psylink gained -->
@@ -149,7 +149,7 @@
   <LetterPsylinkLevelGained_NotFirst>{USER_labelShort} ha guadagnato un nuovo livello di psylink! {USER_pronoun} ora può usare poteri psichici di quel livello, ma {USER_pronoun} deve prima impararli.</LetterPsylinkLevelGained_NotFirst>
   <!-- EN: Upon gaining the new psylink level, {USER_labelShort} automatically learned these psychic powers: {2} -->
   <LetterPsylinkLevelGained_PsycastLearned>Dopo aver ottenuto il nuovo livello di psylink, {USER_labelShort} ha acquisito automaticamente questi poteri psichici: {2}</LetterPsylinkLevelGained_PsycastLearned>
-  
+
   <!-- Abilities -->
   <!-- EN: Thanks to {CASTER_nameIndef}'s psychic suggestion, {PAWN_nameIndef} has experienced an inspiration! -->
   <LetterPsychicInspiration>Grazie al suggerimento psichico di {CASTER_nameIndef}, {PAWN_nameIndef} ha avuto un'ispirazione!</LetterPsychicInspiration>
